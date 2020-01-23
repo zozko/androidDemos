@@ -1,0 +1,2 @@
+# androidDemos
+androidot tanulok... :-/
